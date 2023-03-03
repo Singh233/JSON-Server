@@ -1,6 +1,7 @@
 {
 	"products": [
 	  {
+			"id": 1,
 			"image": "https://images-na.ssl-images-amazon.com/images/I/71DMzKQ1sDL._AC_SX569_.jpg",
 			"name": "Apple iPhone 13 Pro",
 			"category": "Electronics",
@@ -9,6 +10,7 @@
 			"rating": 4.9
 		},
 		{
+			"id": 2,
 			"image": "https://images-na.ssl-images-amazon.com/images/I/81TthZ322pL._AC_SL1500_.jpg",
 			"name": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
 			"category": "Electronics",
@@ -17,6 +19,7 @@
 			"rating": 4.7
 		},
 		{
+			"id": 3,
 			"image": "https://images-na.ssl-images-amazon.com/images/I/61IyE-8%2BjtL._AC_SL1000_.jpg",
 			"name": "Instant Pot Duo Nova Pressure Cooker",
 			"category": "Home & Kitchen",
@@ -25,6 +28,7 @@
 			"rating": 4.8
 		},
 		{
+			"id": 4,
 			"image": "https://images-na.ssl-images-amazon.com/images/I/71Za9KopIgL._AC_SL1500_.jpg",
 			"name": "Samsung 55-Inch QLED Q60A Smart TV",
 			"category": "Electronics",
@@ -33,20 +37,13 @@
 			"rating": 4.6
 		},
 		{
+			"id": 5,
 			"image": "https://images-na.ssl-images-amazon.com/images/I/81B13ZHTVpL._AC_SX522_.jpg",
 			"name": "Fitbit Charge 5 Advanced Health & Fitness Tracker",
 			"category": "Electronics",
 			"description": "This fitness tracker features 20+ exercise modes, built-in GPS, and continuous heart rate tracking. It also has a six-day battery life, sleep tracking, and supports notifications from your phone.",
 			"price": 179.95,
 			"rating": 4.4
-		},
-		{
-			"image": "https://images-na.ssl-images-amazon.com/images/I/71Juu3tq3gL._AC_SL1500_.jpg",
-			"name": "Nespresso Vertuo Coffee and Espresso Maker",
-			"category": "Home & Kitchen",
-			"description": "This coffee and espresso maker features Centrifusion technology for a perfect brew every time. It also has a large water tank, easy one-touch operation, and comes with a variety of coffee capsules.",
-			"price": 199.00,
-			"rating": 4.5
 		}
 	]
 }
