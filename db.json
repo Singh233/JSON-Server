@@ -7,7 +7,11 @@
 			"category": "Electronics",
 			"description": "The iPhone 13 Pro features a stunning Super Retina XDR display, 5G connectivity, and A15 Bionic chip. It also has an impressive camera system with Night mode, Deep Fusion, and ProRAW capabilities.",
 			"price": 999.00,
-			"rating": 4.9
+			"rating": 4.9,
+		  	"colorPalette": {
+				"primary": "#031059",
+				"secondary": "#1455D9"
+			}
 		},
 		{
 			"id": 2,
@@ -16,7 +20,11 @@
 			"category": "Electronics",
 			"description": "These headphones feature industry-leading noise cancellation technology, 30 hours of battery life, and touch controls. They also have high-resolution audio and support for voice assistants.",
 			"price": 349.99,
-			"rating": 4.7
+			"rating": 4.7,
+			"colorPalette": {
+				"primary": "#F2916D",
+				"secondary": "#535556"
+			}
 		},
 		{
 			"id": 3,
@@ -25,7 +33,11 @@
 			"category": "Home & Kitchen",
 			"description": "This pressure cooker features 7-in-1 functionality and can be used as a pressure cooker, slow cooker, rice cooker, steamer, sauté pan, food warmer, and yogurt maker. It has a large capacity and is easy to use and clean.",
 			"price": 99.99,
-			"rating": 4.8
+			"rating": 4.8,
+			"colorPalette": {
+				"primary": "#138AF2",
+				"secondary": "#BFBFBF"
+			}
 		},
 		{
 			"id": 4,
@@ -34,7 +46,11 @@
 			"category": "Electronics",
 			"description": "This smart TV features a Quantum Processor 4K, 100% Color Volume with Quantum Dot, and dual LED backlighting technology. It also has built-in Alexa and supports AirPlay 2.",
 			"price": 799.99,
-			"rating": 4.6
+			"rating": 4.6,
+			"colorPalette": {
+				"primary": "#F20574",
+				"secondary": "#05F2DB"
+			}
 		},
 		{
 			"id": 5,
@@ -43,7 +59,11 @@
 			"category": "Electronics",
 			"description": "This fitness tracker features 20+ exercise modes, built-in GPS, and continuous heart rate tracking. It also has a six-day battery life, sleep tracking, and supports notifications from your phone.",
 			"price": 179.95,
-			"rating": 4.4
+			"rating": 4.4,
+			"colorPalette": {
+				"primary": "#F2DA63",
+				"secondary": "#F28627"
+			}
 		}
 	]
 }
