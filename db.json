@@ -2,7 +2,7 @@
 	"products": [
 	  {
 			"id": 1,
-			"image": "https://i.ibb.co/tzcgtFr/iphone13pro.png",
+			"image": "https://i.ibb.co/d2qwpyk/13pro-Background-Removed.png",
 			"name": "Apple iPhone 13 Pro",
 			"category": "Electronics",
 			"description": "The iPhone 13 Pro features a stunning Super Retina XDR display, 5G connectivity, and A15 Bionic chip. It also has an impressive camera system with Night mode, Deep Fusion, and ProRAW capabilities.",
@@ -20,7 +20,7 @@
 		},
 		{
 			"id": 3,
-			"image": "https://i.ibb.co/6gvsTch/instant-Pot-Background-Removed.png",
+			"image": "https://i.ibb.co/YcMx6tG/instant-Pot-Background-Removed.png",
 			"name": "Instant Pot Duo Nova Pressure Cooker",
 			"category": "Home & Kitchen",
 			"description": "This pressure cooker features 7-in-1 functionality and can be used as a pressure cooker, slow cooker, rice cooker, steamer, sauté pan, food warmer, and yogurt maker. It has a large capacity and is easy to use and clean.",
@@ -29,7 +29,7 @@
 		},
 		{
 			"id": 4,
-			"image": "https://images.samsung.com/is/image/samsung/p6pim/in/qa55qn85baklxl/gallery/in-qled-qn85b-qa55qn85baklxl-531283575?$720_576_PNG$",
+			"image": "https://i.ibb.co/XbqWnLw/samsung55inch.png",
 			"name": "Samsung 55-Inch QLED Q60A Smart TV",
 			"category": "Electronics",
 			"description": "This smart TV features a Quantum Processor 4K, 100% Color Volume with Quantum Dot, and dual LED backlighting technology. It also has built-in Alexa and supports AirPlay 2.",
