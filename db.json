@@ -2,7 +2,7 @@
 	"products": [
 	  {
 			"id": 1,
-			"image": "https://images-na.ssl-images-amazon.com/images/I/71DMzKQ1sDL._AC_SX569_.jpg",
+			"image": "https://i.ibb.co/tzcgtFr/iphone13pro.png",
 			"name": "Apple iPhone 13 Pro",
 			"category": "Electronics",
 			"description": "The iPhone 13 Pro features a stunning Super Retina XDR display, 5G connectivity, and A15 Bionic chip. It also has an impressive camera system with Night mode, Deep Fusion, and ProRAW capabilities.",
@@ -11,7 +11,7 @@
 		},
 		{
 			"id": 2,
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81TthZ322pL._AC_SL1500_.jpg",
+			"image": "https://i.ibb.co/S5R59wy/sonyheadphone.webp",
 			"name": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
 			"category": "Electronics",
 			"description": "These headphones feature industry-leading noise cancellation technology, 30 hours of battery life, and touch controls. They also have high-resolution audio and support for voice assistants.",
@@ -20,7 +20,7 @@
 		},
 		{
 			"id": 3,
-			"image": "https://images-na.ssl-images-amazon.com/images/I/61IyE-8%2BjtL._AC_SL1000_.jpg",
+			"image": "https://i.ibb.co/6gvsTch/instant-Pot-Background-Removed.png",
 			"name": "Instant Pot Duo Nova Pressure Cooker",
 			"category": "Home & Kitchen",
 			"description": "This pressure cooker features 7-in-1 functionality and can be used as a pressure cooker, slow cooker, rice cooker, steamer, sauté pan, food warmer, and yogurt maker. It has a large capacity and is easy to use and clean.",
@@ -29,7 +29,7 @@
 		},
 		{
 			"id": 4,
-			"image": "https://images-na.ssl-images-amazon.com/images/I/71Za9KopIgL._AC_SL1500_.jpg",
+			"image": "https://images.samsung.com/is/image/samsung/p6pim/in/qa55qn85baklxl/gallery/in-qled-qn85b-qa55qn85baklxl-531283575?$720_576_PNG$",
 			"name": "Samsung 55-Inch QLED Q60A Smart TV",
 			"category": "Electronics",
 			"description": "This smart TV features a Quantum Processor 4K, 100% Color Volume with Quantum Dot, and dual LED backlighting technology. It also has built-in Alexa and supports AirPlay 2.",
@@ -38,7 +38,7 @@
 		},
 		{
 			"id": 5,
-			"image": "https://images-na.ssl-images-amazon.com/images/I/81B13ZHTVpL._AC_SX522_.jpg",
+			"image": "https://i.ibb.co/Ssn9rGZ/fitbit.png",
 			"name": "Fitbit Charge 5 Advanced Health & Fitness Tracker",
 			"category": "Electronics",
 			"description": "This fitness tracker features 20+ exercise modes, built-in GPS, and continuous heart rate tracking. It also has a six-day battery life, sleep tracking, and supports notifications from your phone.",
